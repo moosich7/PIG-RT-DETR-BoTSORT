@@ -1,3 +1,3 @@
-The dataset is available by https://pan.baidu.com/s/1IW43KhsR4GVUJWm1fyRwWA,please send e-mail to y_heyrazer@stu.scau.edu.cn obtaining admission.
+The dataset is available by https://pan.baidu.com/s/1IW43KhsR4GVUJWm1fyRwWA, please send e-mail to y_heyrazer@stu.scau.edu.cn obtaining admission.
 
 All the code and items will be upload in future. Updating...
